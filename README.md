@@ -1,6 +1,6 @@
 # namer_app
 
-Este aplicativo foi desenvolvido com a finalidade de iniciar os estudos em Flutter.
+Este aplicativo foi desenvolvido com a finalidade de iniciar os estudos em Flutter com Dart.
 
 ## Sobre:
 * o aplicativo gera nomes aleatórios; 
@@ -8,6 +8,8 @@ Este aplicativo foi desenvolvido com a finalidade de iniciar os estudos em Flutt
 * favoritar o nome atual;
 * revisar a lista de nomes favoritos em uma página separada;
 * remover um ou mais nomes da lista de favoritos;
+
+![](namer_app.gif)
 
 
 ## Aprenda também
