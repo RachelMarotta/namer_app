@@ -1,16 +1,21 @@
 # namer_app
 
-A new Flutter project.
+Este aplicativo foi desenvolvido com a finalidade de iniciar os estudos em Flutter.
 
-## Getting Started
+## Sobre:
+* o aplicativo gera nomes aleatórios; 
+* o usuário pode solicitar o próximo nome; 
+* favoritar o nome atual;
+* revisar a lista de nomes favoritos em uma página separada;
+* remover um ou mais nomes da lista de favoritos;
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Aprenda também
+Se quiser mais detalhes de como fazer seu primeiro aplicativo em Flutter, sugiro:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Para obter ajuda para começar com o desenvolvimento do Flutter, veja a 
+[documentação](https://docs.flutter.dev/), que oferece tutoriais,
+amostras, orientação sobre desenvolvimento e uma referência completa da API.
